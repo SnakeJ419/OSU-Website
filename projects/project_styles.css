@@ -1,0 +1,24 @@
+.project{
+	padding: 2.5%;
+	margin-left: 10%;
+	margin-top: 10vh;
+	width: 80%;
+	border: 1px black solid;
+	border-radius: 10px;
+	background: var(--mg-color-primary-a);
+}
+.project a{
+        text-decoration:underline;
+        color:var(--p-text-color);
+	margin-top: 0.1rem;
+        margin-bottom: 1rem;
+	margin-left:3.5rem;
+        display:block;
+}
+.project a:hover{
+        color:var(--mg-color-primary);
+}
+.project p{
+	margin-bottom: 1rem;
+}
+
